@@ -1,1 +1,1 @@
-# Wolvesville Tabletop Simulator Mod
+# Wolvesville Tabletop Simulator Mod (PT-BR)
